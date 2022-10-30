@@ -1,0 +1,39 @@
+.container{
+    width: 100%;
+    height: 100%;
+    
+}
+
+form{
+    background-color: rgb(1, 1, 0);
+    border-radius: 10px;
+}
+
+@font-face { 
+    font-family: ARCADECLASSIC; 
+    src: url('ARCADECLASSIC.TTF') format('truetype'); 
+} 
+
+
+#color{
+    background-color: black;
+    color: red; 
+}
+
+.over{
+    font-family: 'arcadeclassic';
+    font-size: 10rem;
+    
+}
+#titulo{
+    font-family: 'arcadeclassic';
+    font-size: 5rem;
+}
+
+h2{
+    font-family: 'arcadeclassic';
+}
+
+p {
+    background-color: red;
+}
